@@ -1,8 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "d:\\Users\\soju_\\Downloads\\paper-1.16.5-449.jar",
-        "d:\\Users\\soju_\\Documents\\lib\\ProtocolLib.jar",
-        "d:\\Users\\soju_\\Documents\\asdf\\cache\\patched_1.16.3.jar"
-    ]
-}

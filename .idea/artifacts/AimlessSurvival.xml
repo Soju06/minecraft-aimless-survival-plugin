@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="AimlessSurvival">
-    <output-path>$PROJECT_DIR$/out/artifacts/AimlessSurvival</output-path>
-    <root id="archive" name="AimlessSurvival.jar">
-      <element id="module-output" name="sansTV" />
-    </root>
-  </artifact>
-</component>
