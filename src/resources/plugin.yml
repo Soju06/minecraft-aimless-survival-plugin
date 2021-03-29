@@ -1,0 +1,7 @@
+name: sansTVAimlessSurvival
+version: 0.0.1
+main: sanstv.aimlesssurvival.Main
+api-version: 1.16
+authors: [Soju06]
+website: https://minecraft.soju.cf/
+depend: [ProtocolLib]
