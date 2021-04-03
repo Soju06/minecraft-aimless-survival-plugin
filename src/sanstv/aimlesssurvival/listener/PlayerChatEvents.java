@@ -26,9 +26,6 @@ public class PlayerChatEvents implements Listener
             emote.Run(f, event.getPlayer());
             event.setCancelled(true);
         }
-        // else
-        // {
-        //     event.getPlayer().sendMessage("§c§l채팅을 쓸 수 없다.");
-        // }
+        else event.getPlayer().sendMessage("§c§l채팅을 쓸 수 없다.");
     }
 }
